@@ -187,7 +187,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Kim and Notkin [3]</td>
-    <td>ICSE (C)</td>
+    <td><a href="http://www.icse-conferences.org/">ICSE (C)</a></td>
     <td>2009</td>
     <td>Systematic change inspection</td>
     <td align="center" valign="center">M</td>
