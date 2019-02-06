@@ -11,7 +11,8 @@
     <li><b>RQ2</b>. What are the methods/techniques/tools proposed in those papers?</li>
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
-
+<p>
+	
 
 <h3> Primary Studies </h3>
 <p>Details at <b>/primaryStudies</b>.</p>
@@ -51,7 +52,8 @@
   </tr>
 	<caption><i>Search results by database</i></caption>  
 </table>
-
+<p>
+	
 
 <h4> Inclusion and Exclusion Criteria </h4>
 <table>	    
@@ -79,12 +81,16 @@
     <td align="left" valign="center">Similarity to already selected research (the most recent paper was considered).</td>
   </tr>  
 </table>
-
+<p>
+	
 
 <h4> Data Extraction </h4>
-We collected seven (7) conference proceedings papers and three (3) journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three (3) new conference papers. Details at <b>/dataExtraction</b>.
+We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers. Details at <b>/dataExtraction</b>.
+<p>
+
 
 <h4> Analysis and Classification </h4>
-
+<p>
+	
 
 <h4> Results </h4>
