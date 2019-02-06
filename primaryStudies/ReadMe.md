@@ -37,7 +37,6 @@ In order to obtain a more precise set of search results, we applied the filters,
     <td>Software Engineering</td>
   </tr>
 </table>
-<br>
 
 ### ScienceDirect
 In order to obtain a more precise set of search results, we applied the filters, as follows.
@@ -50,7 +49,28 @@ In order to obtain a more precise set of search results, we applied the filters,
   </tr>
   <tr>
     <td>Article Type</td>
-    <td><i>include</i></td>
+    <td><i>select</i></td>
     <td>Research Articles</td>
+  </tr>  
+</table>
+
+### Springer Link
+In order to obtain a more precise set of search results, we applied the filters, as follows.
+
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Action</th>
+    <th>Filter</th>    
+  </tr>
+  <tr>
+    <td>Discipline</td>
+    <td><i>select</i></td>
+    <td>Computer Science</td>
+  </tr>  
+  <tr>
+    <td>Subdiscipline</td>
+    <td><i>select</i></td>
+    <td>Software Engineering</td>
   </tr>  
 </table>
