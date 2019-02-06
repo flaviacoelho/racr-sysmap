@@ -2,7 +2,7 @@
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Papyrus; font-size:20em;">love!</span>
 
 <font size="2" color="blue">
 This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>
