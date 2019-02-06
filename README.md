@@ -4,11 +4,8 @@
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 
-<p style="font-size:30px">This is a paragraph.</p>
-
-<font size="2" color="blue">
-This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>
-Federal University of Campina Grande, Brazil</font><br>
+*This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
+*Federal University of Campina Grande, Brazil</font><br>*
 <img src="/images/splab.png" alt="SPLab Logo" width="100" height="100">
 <hr>
 
