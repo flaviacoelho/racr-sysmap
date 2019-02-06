@@ -15,7 +15,7 @@
 
 <h4> Primary Studies </h4>
 <table>
-	<caption><b>Search results by database</b></caption>  
+	<caption align="center" valign="center">Search results by database</caption>  
     
   <tr>
     <th>Database</th>
