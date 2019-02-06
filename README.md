@@ -11,13 +11,13 @@
     <li><b>RQ2</b>. What are the methods/techniques/tools proposed in those papers?</li>
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
-
+<hr size = 4px>
 
 <h3> Primary Studies </h3>
 
 <table>	    
   <tr>
-    <td>("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
+    <td align="center" valign="center">("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
 </th>
   </tr>
 	<caption><i>Search search</i></caption>  
@@ -50,7 +50,7 @@
   </tr>
 	<caption><i>Search results by database</i></caption>  
 </table>
-
+<hr size = 4px>
 
 <h4> Inclusion and Exclusion Criteria </h4>
 <table>	    
@@ -78,12 +78,12 @@
     <td align="left" valign="center">Similarity to already selected research (the most recent paper was considered).</td>
   </tr>  
 </table>
-
+<hr size = 4px>
 
 <h4> Data Extraction </h4>
-
+<hr size = 4px>
 
 <h4> Analysis and Classification </h4>
-
+<hr size = 4px>
 
 <h4> Results </h4>
