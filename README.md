@@ -1,4 +1,4 @@
-<h2 style="color: #2e6c80;"> Refactoring-aware and code review: A systematic mapping study </h2>
+<h2 span style="color:red"> Refactoring-aware and code review: A systematic mapping study </span></h2>
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 <img src="/images/splab.png" alt="SPLab Logo" width="100" height="100">
