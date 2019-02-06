@@ -1,8 +1,7 @@
-<p><img src="/images/splab.png" alt="SPLab Logo" width="128" height="128"></p>
-
 ## Refactoring-aware and code review: A systematic mapping study
 
 Details on our <b>systematic literature mapping</b> study!
+<img src="/images/splab.png" alt="SPLab Logo" width="128" height="128">
 <hr>
 
 <h4> Research Questions </h4>
