@@ -296,11 +296,12 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
   </tr>
 </table>
 <i>
-Venue: C (Conference proceedings), J (Journal article)
-Question: Ch (Characterization), M (Method of development)
-Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)
+Venue: C (Conference proceedings), J (Journal article)<br>
+Question: Ch (Characterization), M (Method of development)<br>
+Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)<br>
 Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
+
 
 <h4> References </h4>
 [1] M. Shaw, "Writing good software engineering research papers: minitutorial," in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
