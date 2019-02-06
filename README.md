@@ -15,8 +15,14 @@
 
 <h3> Primary Studies </h3>
 
-# incluir a search string aqui
-
+<table>	    
+  <tr>
+    <th>("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
+</th>
+  </tr>
+	<caption><i>Search search</i></caption>  
+</table>
+	
 <table>	    
   <tr>
     <th>Database</th>
