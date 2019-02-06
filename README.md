@@ -1,6 +1,6 @@
-## Refactoring-aware and code review: A systematic mapping study
+<h2 style="color: #2e6c80;"> Refactoring-aware and code review: A systematic mapping study
 
-Details on our <b>systematic literature mapping</b> study!
+<p>Details on our <b>systematic literature mapping</b> study!
 <img src="/images/splab.png" alt="SPLab Logo" width="128" height="128">
 <hr>
 
