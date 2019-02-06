@@ -182,124 +182,124 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td>ICPC (C)</td>
     <td>2007</td>
     <td>Development sessions understanding</td>
-    <td>Ch</td>
-    <td>D</td>
-    <td>Ev</td>
+    <td align="center" valign="center">Ch</td>
+    <td align="center" valign="center">D</td>
+    <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
     <td>Kim and Notkin \cite{kimEtAl2009}</td>
     <td>ICSE (C)</td>
     <td>2009</td>
     <td>Systematic change inspection</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Bavota and colleagues \cite{bavotaEtAl2012}</td>
     <td>SCAM (C)</td>
     <td>2012</td>
     <td>Refactoring and software defects</td>
-    <td>Ch</td>
-    <td>A</td>
-    <td>An</td>
+    <td align="center" valign="center">Ch</td>
+    <td align="center" valign="center">A</td>
+    <td align="center" valign="center">An</td>
   </tr>
   <tr>
     <td>Tao and colleagues \cite{taoEtAl2012}</td>
     <td>FSE (C)</td>
     <td>2012</td>
     <td>Change understanding</td>
-    <td>Ch</td>
-    <td>A</td>
-    <td>Ev</td>
+    <td align="center" valign="center">Ch</td>
+    <td align="center" valign="center">A</td>
+    <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
     <td>Kim and colleagues \cite{kimEtAl2014}</td>
     <td>IEEE TRANS SOFTW ENG (J)</td>
     <td>2014</td>
     <td>Refactoring challenges and benefits</td>
-    <td>Ch</td>
-    <td>A</td>
-    <td>Ev</td>
+    <td align="center" valign="center">Ch</td>
+    <td align="center" valign="center">A</td>
+    <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
     <td>Zhang and colleagues \cite{zhangEtAl2015}</td>
     <td>ICSE (C)</td>
     <td>2015</td>
     <td>Systematic change inspection</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Matsuda and colleagues \cite{matsudaEtAl2015}</td>
     <td>IWPSE (C)</td>
     <td>2015</td>
     <td>Refactoring-aware change reorganizing</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exa</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exa</td>
   </tr>
   <tr>
     <td>Tao and Kim \cite{taoEtAl2015}</td>
     <td>MSR (C)</td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
-    <td>M</td>
-    <td>Te</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">Te</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Barnett and colleagues \cite{barnettEtAl2015}</td>
     <td>ICSE (C)</td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Ge and colleagues \cite{geEtAl2017}</td>
     <td>VL/HCC (C)</td>
     <td>2017</td>
     <td>Refactoring-aware code review</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Guo and Song \cite{guoEtAl2017}</td>
     <td>COMPSAC (C)</td>
     <td>2017</td>
     <td>Decomposition of composite change</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Alves and colleagues \cite{alvesEtAl2018}</td>
     <td>IEEE TRANS SOFTW ENG (J)</td>
     <td>2018</td>
     <td>Refactoring-aware code review</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
     <td>Chen and colleagues \cite{chenEtAl2018}</td>
     <td>J SOFTW-EVOL PROC (J)</td>
     <td>2018</td>
     <td>Clone refactoring inspection</td>
-    <td>M</td>
-    <td>T</td>
-    <td>Exp</td>
+    <td align="center" valign="center">M</td>
+    <td align="center" valign="center">T</td>
+    <td align="center" valign="center">Exp</td>
   </tr>
 </table>
-<i><p>Venue: C (Conference proceedings), J (Journal article)
-   <p>Question: Ch (Characterization), M (Method of development)
-   <p>Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)
-   <p>Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)
-
+<i>
+Venue: C (Conference proceedings), J (Journal article)
+Question: Ch (Characterization), M (Method of development)
+Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)
+Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
 
 <h4> References </h4>
