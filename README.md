@@ -302,17 +302,17 @@ Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
 
 <h4> References </h4>
-[1] M. Shaw, ''Writing good software engineering research papers: minitutorial,'' in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. <br>
+[1] M. Shaw, ''Writing good software engineering research papers: minitutorial,'' in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726–36. <br>
 [2] R. Robbes and M. Lanza, ''Characterizing and Understanding Development Sessions,'' in 15th IEEE International Conference on Program Comprehension (ICPC'07), Canada, 2007, pp. 155–66. <br>   
-[3] M. Kim and D. Notkin, ''Discovering and Representing Systematic Code Changes,'' in 31st International Conference on Software Engineering (ICSE'09), USA, 2009, pp. 309--19. <br>
-[4] G. Bavota, B. De Carluccio, A. De Lucia, M. Di Penta, R. Oliveto and O. Strollo, ''When Does a Refactoring Induce Bugs? An Empirical Study,'' in IEEE 12th International Working Conference on Source Code Analysis and Manipulation (SCAM'12), Italy, 2012, pp. 104--13. <br>
-[5] Y. Tao, Y. Dang, T. Xie, D. Zhang and S. Kim, ''How Do Software Engineers Understand Code Changes? An Exploratory Study in Industry,'' in ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering (FSE'12), USA, 2012, pp. 1--11. <br>
-[6] M. Kim, T. Zimmermann and N. Nagappan, ''An Empirical Study of Refactoring Challenges and Benefits at Microsoft,'' IEEE Trans. Softw. Eng., vol. 40, issue 7, 2014, pp. 633--49. <br>
-[7] T. Zhang, M. Song, J. Pinedo and M. Kim, ''Interactive Code Review for Systematic Changes,'' in 37th International Conference on Software Engineering - Volume 1 (ICSE'15), USA, 2015, pp. 111--22. <br>
-[8] J. Matsuda, S. Hayashi and M. Saeki, ''Hierarchical Categorization of Edit Operations for Separately Committing Large Refactoring Results,'' in 14th International Workshop on Principles of Software Evolution (IWPSE'15), USA, 2015, pp. 19--27. <br>
-[9] Y. Tao and S. Kim, ''Partitioning Composite Code Changes to Facilitate Code Review,'' in 12th Working Conference on Mining Software Repositories (MSR'15), USA, 2015, pp. 180--90. <br>
-[10] M. Barnett, C. Bird, J. Brunet and S. K. Lahiri, ''Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets, '' in 37th International Conference on Software Engineering (ICSE'15), USA, 2015, pp. 134--44. <br>
-[11] X. Ge, S. Sarkar, J. Witschey and E. Murphy-Hill, ''Refactoring-aware code review,'' in IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'17), USA, 2017, pp. 71--9. <br>
-[12] B. Guo and M. Song, ''Interactively Decomposing Composite Changes to Support Code Review and Regression Testing,'' in IEEE 41st Annual Computer Software and Applications Conference (COMPSAC'17), Italy, 2017, pp. 118--27. <br>
-[13] E. L. G. Alves, M. Song, T. Massoni, P.D.L. Machado, and M. Kim, ''Refactoring Inspection Support for Manual Refactoring Edits,'' IEEE Trans. Softw. Eng., vol. 44, issue 4, 2018, pp. 365--83. <br>
-[14] Z. Chen, Y. Kwon and M. Song, ''Clone refactoring inspection by summarizing clone refactorings and detecting inconsistent changes during software evolution,'' J. Softw.-Evol. Proc., vol. 30, issue 10, 2018, pp.e1951--n/a. <br>
+[3] M. Kim and D. Notkin, ''Discovering and Representing Systematic Code Changes,'' in 31st International Conference on Software Engineering (ICSE'09), USA, 2009, pp. 309–19. <br>
+[4] G. Bavota, B. De Carluccio, A. De Lucia, M. Di Penta, R. Oliveto and O. Strollo, ''When Does a Refactoring Induce Bugs? An Empirical Study,'' in IEEE 12th International Working Conference on Source Code Analysis and Manipulation (SCAM'12), Italy, 2012, pp. 104–13. <br>
+[5] Y. Tao, Y. Dang, T. Xie, D. Zhang and S. Kim, ''How Do Software Engineers Understand Code Changes? An Exploratory Study in Industry,'' in ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering (FSE'12), USA, 2012, pp. 1–11. <br>
+[6] M. Kim, T. Zimmermann and N. Nagappan, ''An Empirical Study of Refactoring Challenges and Benefits at Microsoft,'' IEEE Trans. Softw. Eng., vol. 40, issue 7, 2014, pp. 633–49. <br>
+[7] T. Zhang, M. Song, J. Pinedo and M. Kim, ''Interactive Code Review for Systematic Changes,'' in 37th International Conference on Software Engineering - Volume 1 (ICSE'15), USA, 2015, pp. 111–22. <br>
+[8] J. Matsuda, S. Hayashi and M. Saeki, ''Hierarchical Categorization of Edit Operations for Separately Committing Large Refactoring Results,'' in 14th International Workshop on Principles of Software Evolution (IWPSE'15), USA, 2015, pp. 19–27. <br>
+[9] Y. Tao and S. Kim, ''Partitioning Composite Code Changes to Facilitate Code Review,'' in 12th Working Conference on Mining Software Repositories (MSR'15), USA, 2015, pp. 180–90. <br>
+[10] M. Barnett, C. Bird, J. Brunet and S. K. Lahiri, ''Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets, '' in 37th International Conference on Software Engineering (ICSE'15), USA, 2015, pp. 134–44. <br>
+[11] X. Ge, S. Sarkar, J. Witschey and E. Murphy-Hill, ''Refactoring-aware code review,'' in IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'17), USA, 2017, pp. 71–9. <br>
+[12] B. Guo and M. Song, ''Interactively Decomposing Composite Changes to Support Code Review and Regression Testing,'' in IEEE 41st Annual Computer Software and Applications Conference (COMPSAC'17), Italy, 2017, pp. 118–27. <br>
+[13] E. L. G. Alves, M. Song, T. Massoni, P.D.L. Machado, and M. Kim, ''Refactoring Inspection Support for Manual Refactoring Edits,'' IEEE Trans. Softw. Eng., vol. 44, issue 4, 2018, pp. 365–83. <br>
+[14] Z. Chen, Y. Kwon and M. Song, ''Clone refactoring inspection by summarizing clone refactorings and detecting inconsistent changes during software evolution,'' J. Softw.-Evol. Proc., vol. 30, issue 10, 2018, pp.e1951–n/a. <br>
