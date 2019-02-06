@@ -1,13 +1,17 @@
-<h3 style="color: #2e6c80;"> Refactoring-aware and code review: A systematic mapping study </h3>
+<h2 style="color: #2e6c80;"> Refactoring-aware and code review: A systematic mapping study </h2>
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 <img src="/images/splab.png" alt="SPLab Logo" width="100" height="100">
 <hr>
 
 <h4> Research Questions </h4>
-<p> This is a paragraph. </p>
+<ul style="list-style-type:square;">
+	<li><b>RQ1</b>. What are the most common research topics in those papers?</li>
+    <li><b>RQ2</b>. What are the methods/techniques/tools proposed in those papers?</li>
+    <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
+</ul>
 
-<h4> Research Questions </h4>
+<h4> Primary Studies </h4>
 
 <h4> Inclusion and Exclusion Criteria </h4>
 
