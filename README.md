@@ -94,7 +94,7 @@ We collected 7 conference proceedings papers and 3 journal articles. These eleve
 
 <img src="/images/TwoPhaseClassificationSqueme.png" alt="Two Phase Classification Scheme" width="70%" height="70%"> 
 
-In the first phase, we were supported by Shaw's work [1], which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
+In the first phase, we were supported by Shaw's work, which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
 <br>
 <table>	    
   <tr>
@@ -158,7 +158,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
   <tr>
     <td align="left" valign="center">Blatant assertion</td>     
   </tr> 
-	<caption><i>Research questions, results, and validation categories in Software Engineering</i></caption>
+	<caption><i>Research questions, results, and validation categories in Software Engineering [1]</i></caption>
 </table>
 <br>
 
