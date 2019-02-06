@@ -1,6 +1,7 @@
 ## Refactoring-aware and code review: A systematic mapping study
 
 Details on our <b>systematic literature mapping</b> study!
+<hr>
 
 <h4> Research Questions </h4>
 <p> This is a paragraph. </p>
