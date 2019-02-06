@@ -15,7 +15,7 @@
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
 <br>
- - - - -	
+<br>	
 
 <h3> Primary Studies </h3>
 <p>Details at <b>/primaryStudies</b>.</p>
@@ -56,7 +56,7 @@
 	<caption><i>Search results by database</i></caption>  
 </table>
 <br>
-	
+<br>	
 
 <h4> Inclusion and Exclusion Criteria </h4>
 <table>	    
@@ -85,12 +85,12 @@
   </tr>  
 </table>
 <br>
-	
+<br>	
 
 <h4> Data Extraction </h4>
 We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers. Details at <b>/dataExtraction</b>.
 <br>
-
+<br>
 
 <h4> Analysis and Classification </h4>
 <p>In order to categorize the 13 collected papers, we created the following two-phase classification scheme.</p>
@@ -164,7 +164,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
 	<caption><i>Research questions, results, and validation categories in Software Engineering</i></caption>
 </table>
 <br>
-	
+<br>
 
 <h4> Results </h4>
 <table style="width:100%">
@@ -304,7 +304,7 @@ Question: Ch (Characterization), M (Method of development)<br>
 Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)<br>
 Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
-
+<br>
 
 <h4> References </h4>
 [1] M. Shaw, "Writing good software engineering research papers: minitutorial," in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
