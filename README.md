@@ -178,7 +178,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Robbes and Lanza [2]</td>
-    <td>ICPC (C)</td>
+    <td><a href="https://www.program-comprehension.org/">ICPC (C)</a></td>
     <td>2007</td>
     <td>Development sessions understanding</td>
     <td align="center" valign="center">Ch</td>
@@ -196,7 +196,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Bavota and colleagues [4]</td>
-    <td>SCAM (C)</td>
+    <td><a href="http://www.ieee-scam.org/">SCAM (C)</a></td>
     <td>2012</td>
     <td>Refactoring and software defects</td>
     <td align="center" valign="center">Ch</td>
@@ -205,7 +205,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Tao and colleagues [5]</td>
-    <td>FSE (C)</td>
+    <td><a href="https://www.esec-fse.org/">FSE (C)</a></td>
     <td>2012</td>
     <td>Change understanding</td>
     <td align="center" valign="center">Ch</td>
@@ -214,7 +214,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Kim and colleagues [6]</td>
-    <td>IEEE TRANS SOFTW ENG (J)</td>
+    <td><a href="https://www.computer.org/web/tse">IEEE TRANS SOFTW ENG (J)</a></td>
     <td>2014</td>
     <td>Refactoring challenges and benefits</td>
     <td align="center" valign="center">Ch</td>
@@ -223,7 +223,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Zhang and colleagues [7]</td>
-    <td>ICSE (C)</td>
+    <td><a href="http://www.icse-conferences.org/">ICSE (C)</a></td>
     <td>2015</td>
     <td>Systematic change inspection</td>
     <td align="center" valign="center">M</td>
@@ -232,7 +232,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Matsuda and colleagues [8]</td>
-    <td>IWPSE (C)</td>
+    <td><a href="https://www.esec-fse.org">IWPSE (C)</a></td>
     <td>2015</td>
     <td>Refactoring-aware change reorganizing</td>
     <td align="center" valign="center">M</td>
@@ -241,7 +241,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Tao and Kim [9]</td>
-    <td>MSR (C)</td>
+    <td><a href="http://www.msrconf.org/">MSR (C)</a></td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
     <td align="center" valign="center">M</td>
@@ -250,7 +250,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Barnett and colleagues [10]</td>
-    <td>ICSE (C)</td>
+    <td><a href="http://www.icse-conferences.org/">ICSE (C)</a></td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
     <td align="center" valign="center">M</td>
@@ -259,7 +259,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Ge and colleagues [11]</td>
-    <td>VL/HCC (C)</td>
+    <td><a href="http://conferences.computer.org/VLHCC/">VL/HCC (C)</a></td>
     <td>2017</td>
     <td>Refactoring-aware code review</td>
     <td align="center" valign="center">M</td>
@@ -268,7 +268,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Guo and Song [12]</td>
-    <td>COMPSAC (C)</td>
+    <td><a href="https://ieeecompsac.computer.org/">COMPSAC (C)</a></td>
     <td>2017</td>
     <td>Decomposition of composite change</td>
     <td align="center" valign="center">M</td>
@@ -277,7 +277,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Alves and colleagues [13]</td>
-    <td>IEEE TRANS SOFTW ENG (J)</td>
+    <td><a href="https://www.computer.org/web/tse">IEEE TRANS SOFTW ENG (J)</a></td>
     <td>2018</td>
     <td>Refactoring-aware code review</td>
     <td align="center" valign="center">M</td>
@@ -286,7 +286,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
   </tr>
   <tr>
     <td>Chen and colleagues [14]</td>
-    <td>J SOFTW-EVOL PROC (J)</td>
+    <td><a href="https://onlinelibrary.wiley.com/journal/20477481">J SOFTW-EVOL PROC (J)</a></td>
     <td>2018</td>
     <td>Clone refactoring inspection</td>
     <td align="center" valign="center">M</td>
