@@ -177,7 +177,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td>Validation</td>
   </tr>
   <tr>
-    <td>Robbes and Lanza \cite{robbesEtAl2007}</td>
+    <td>Robbes and Lanza [2]</td>
     <td>ICPC (C)</td>
     <td>2007</td>
     <td>Development sessions understanding</td>
@@ -186,7 +186,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
-    <td>Kim and Notkin \cite{kimEtAl2009}</td>
+    <td>Kim and Notkin [3]</td>
     <td>ICSE (C)</td>
     <td>2009</td>
     <td>Systematic change inspection</td>
@@ -302,4 +302,6 @@ Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
 
 <h4> References </h4>
-[1] M. Shaw, "Writing good software engineering research papers: minitutorial," in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
+[1] M. Shaw, ''Writing good software engineering research papers: minitutorial,'' in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
+[2] R. Robbes and M. Lanza, ''Characterizing and Understanding Development Sessions,'' in 15th IEEE International Conference on Program Comprehension (ICPC'07), Canada, 2007, pp. 155–66.    
+[3] M. Kim and D. Notkin, ''Discovering and Representing Systematic Code Changes,'' in 31st International Conference on Software Engineering (ICSE'09), USA, 2009, pp. 309--19.
