@@ -1,10 +1,9 @@
-<html>
-	
 <h2> <span style="color:red"> Refactoring-Aware and Code Review: A Systematic Mapping Study </span></h2>
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 
 <img src="/images/splab.png" alt="SPLab Logo" width="100" height="100">
+
 *This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
 *Federal University of Campina Grande, Brazil</font><br>*
 <hr>
@@ -310,4 +309,3 @@ Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 
 <h4> References </h4>
 [1] M. Shaw, "Writing good software engineering research papers: minitutorial," in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
-</html>
