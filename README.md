@@ -92,7 +92,7 @@ We collected 7 conference proceedings papers and 3 journal articles. These eleve
 <h4> Analysis and Classification </h4>
 <p>In order to categorize the 13 collected papers, we created the following two-phase classification scheme.</p>
 
-<img src="/images/TwoPhaseClassificationSqueme.jpg" alt="Two Phase Classification Scheme">
+<img src="/images/TwoPhaseClassificationSqueme.png" alt="Two Phase Classification Scheme">
 
 In the first phase, we were supported by Shaw's work [1], which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
 
