@@ -56,7 +56,7 @@
 </table>
 <br>
 
-<h4> Inclusion and Exclusion Criteria </h4>
+<h3> Inclusion and Exclusion Criteria </h3>
 <table>	    
   <tr>
     <th>Criteria</th>
@@ -84,12 +84,12 @@
 </table>
 <br>
 
-<h4> Data Extraction </h4>
+<h3> Data Extraction </h3>
 We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers. Details at <b>/dataExtraction</b>.
 <br>
 <br>
 
-<h4> Analysis and Classification </h4>
+<h3> Analysis and Classification </h3>
 <p>In order to categorize the 13 collected papers, we created the following two-phase classification scheme.</p>
 
 <img src="/images/TwoPhaseClassificationSqueme.png" alt="Two Phase Classification Scheme" width="70%" height="70%"> 
@@ -162,7 +162,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
 </table>
 <br>
 
-<h4> Results </h4>
+<h3> Results </h3>
 <table style="width:100%">
   <tr>
     <th rowspan="2">Selected Paper</th>       	
@@ -301,7 +301,7 @@ Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)<br>
 Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 <br>
 
-<h4> References </h4>
+<h3> References </h3>
 [1] M. Shaw, ''Writing good software engineering research papers: minitutorial,'' in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726–36. <br>
 [2] R. Robbes and M. Lanza, ''Characterizing and Understanding Development Sessions,'' in 15th IEEE International Conference on Program Comprehension (ICPC'07), Canada, 2007, pp. 155–66. <br>   
 [3] M. Kim and D. Notkin, ''Discovering and Representing Systematic Code Changes,'' in 31st International Conference on Software Engineering (ICSE'09), USA, 2009, pp. 309–19. <br>
