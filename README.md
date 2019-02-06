@@ -14,9 +14,7 @@
 
 
 <h4> Primary Studies </h4>
-<table>
-	<caption align="center" valign="center">Search results by database</caption>  
-    
+<table>	    
   <tr>
     <th>Database</th>
     <th>Collected Studies</th>    
@@ -40,7 +38,8 @@
   <tr>
     <td align="center" valign="center">Springer Link</td>
     <td align="center" valign="center">1090</td>
-  </tr>  
+  </tr>
+	<caption><i>Search results by database</i></caption>  
 </table>
 
 
