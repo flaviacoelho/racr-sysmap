@@ -15,7 +15,6 @@
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
 <br>
-<br>	
 
 <h3> Primary Studies </h3>
 <p>Details at <b>/primaryStudies</b>.</p>
@@ -56,7 +55,6 @@
 	<caption><i>Search results by database</i></caption>  
 </table>
 <br>
-<br>	
 
 <h4> Inclusion and Exclusion Criteria </h4>
 <table>	    
@@ -85,7 +83,6 @@
   </tr>  
 </table>
 <br>
-<br>	
 
 <h4> Data Extraction </h4>
 We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers. Details at <b>/dataExtraction</b>.
@@ -98,7 +95,7 @@ We collected 7 conference proceedings papers and 3 journal articles. These eleve
 <img src="/images/TwoPhaseClassificationSqueme.png" alt="Two Phase Classification Scheme" width="70%" height="70%"> 
 
 In the first phase, we were supported by Shaw's work [1], which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
-
+<br>
 <table>	    
   <tr>
     <th>Categories</th>
@@ -163,7 +160,6 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
   </tr> 
 	<caption><i>Research questions, results, and validation categories in Software Engineering</i></caption>
 </table>
-<br>
 <br>
 
 <h4> Results </h4>
@@ -303,7 +299,6 @@ Venue: C (Conference proceedings), J (Journal article)<br>
 Question: Ch (Characterization), M (Method of development)<br>
 Result: A (Answer), D (Descriptive model), Te (Technique), T (Tool)<br>
 Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
-<br>
 <br>
 
 <h4> References </h4>
