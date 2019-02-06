@@ -8,7 +8,7 @@ Search results available at <a href="ACMDigitalLibrary.csv">ACMDigitalLibrary.cs
 ### IEEEXplore Digital Library
 Search results available at <a href="IEEEXploreDigitalLibrary.csv">IEEEXploreDigitalLibrary.csv</a>
 <br>
-
+<br>
 To the next databases, in order to obtain a more precise set of search results, we applied the filters, as follows.
 
 ### Inspec & Compedex Guide
