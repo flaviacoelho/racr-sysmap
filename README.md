@@ -17,7 +17,7 @@
 
 <table>	    
   <tr>
-    <th>("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
+    <td>("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
 </th>
   </tr>
 	<caption><i>Search search</i></caption>  
