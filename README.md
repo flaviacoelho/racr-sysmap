@@ -96,8 +96,70 @@ We collected 7 conference proceedings papers and 3 journal articles. These eleve
 
 In the first phase, we were supported by Shaw's work [1], which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
 
-tabela de classificação 
-
+<table>	    
+  <tr>
+    <th>Categories</th>
+    <th>Classification</th>    
+  </tr>
+  <tr>
+    <td rowspan="5" align="center" valign="center">Research Question</td>
+    <td align="left" valign="center">Method or means of development</td>    
+  </tr>
+  <tr>
+    <td align="left" valign="center">Method for analysis or evaluation</td>
+  </tr>
+  <tr>
+	  <td align="left" valign="center">Design, evaluation, or analysis of a particular instance</td>
+  </tr>
+  <tr>
+	  <td align="left" valign="center">Generalization and characterization</td>
+  </tr>
+  <tr>
+	  <td align="left" valign="center">Feasibility study or exploration</td>
+  </tr>
+  <tr>
+    <td rowspan="7" align="center" valign="center">Research Results</td>
+    <td align="left" valign="center">Procedure or technique</td>    
+  </tr>
+  <tr>
+    <td align="left" valign="center">Qualitative or descriptive model</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Empirical model</td>
+  </tr>
+  <tr>
+    <td align="left" valign="center">Analytic model</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Tool or notation</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Specific solution, prototype, answer or judgment</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Report</td>     
+  </tr>	
+  <tr>
+    <td rowspan="6" align="center" valign="center">Research Validation</td>
+    <td align="left" valign="center">Analysis</td>    
+  </tr>
+  <tr>
+    <td align="left" valign="center">Evaluation</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Experience</td>
+  </tr>
+  <tr>
+    <td align="left" valign="center">Example</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Persuasion</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Blatant assertion</td>     
+  </tr> 
+	<caption><i>Research questions, results, and validation categories in Software Engineering</i></caption>
+</table>
 <br>
 	
 
