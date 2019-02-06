@@ -1,11 +1,13 @@
 
 ## Orientations to Search for Primary Studies
 
-### <a href = "https://dl.acm.org/"> ACM Digital Library </a>
+### ACM Digital Library
 Search results available at <a href="ACMDigitalLibrary.csv">ACMDigitalLibrary.csv</a>
+<br>
 
 ### IEEEXplore Digital Library
 Search results available at <a href="IEEEXploreDigitalLibrary.csv">IEEEXploreDigitalLibrary.csv</a>
+<br>
 
 ### Inspec & Compedex Guide
 In order to obtain a more precise set of search results, we applied the filters, as follows.
@@ -34,4 +36,21 @@ In order to obtain a more precise set of search results, we applied the filters,
     <td><i>include</i></td>
     <td>Software Engineering</td>
   </tr>
+</table>
+<br>
+
+### ScienceDirect
+In order to obtain a more precise set of search results, we applied the filters, as follows.
+
+<table style="width:100%">
+  <tr>
+    <th>Criteria</th>
+    <th>Action</th>
+    <th>Filter</th>    
+  </tr>
+  <tr>
+    <td>Article Type</td>
+    <td><i>include</i></td>
+    <td>Research Articles</td>
+  </tr>  
 </table>
