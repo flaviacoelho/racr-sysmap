@@ -195,7 +195,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Bavota and colleagues \cite{bavotaEtAl2012}</td>
+    <td>Bavota and colleagues [4]</td>
     <td>SCAM (C)</td>
     <td>2012</td>
     <td>Refactoring and software defects</td>
@@ -204,7 +204,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">An</td>
   </tr>
   <tr>
-    <td>Tao and colleagues \cite{taoEtAl2012}</td>
+    <td>Tao and colleagues [5]</td>
     <td>FSE (C)</td>
     <td>2012</td>
     <td>Change understanding</td>
@@ -213,7 +213,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
-    <td>Kim and colleagues \cite{kimEtAl2014}</td>
+    <td>Kim and colleagues [6]</td>
     <td>IEEE TRANS SOFTW ENG (J)</td>
     <td>2014</td>
     <td>Refactoring challenges and benefits</td>
@@ -222,7 +222,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Ev</td>
   </tr>
   <tr>
-    <td>Zhang and colleagues \cite{zhangEtAl2015}</td>
+    <td>Zhang and colleagues [7]</td>
     <td>ICSE (C)</td>
     <td>2015</td>
     <td>Systematic change inspection</td>
@@ -231,7 +231,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Matsuda and colleagues \cite{matsudaEtAl2015}</td>
+    <td>Matsuda and colleagues [8]</td>
     <td>IWPSE (C)</td>
     <td>2015</td>
     <td>Refactoring-aware change reorganizing</td>
@@ -240,7 +240,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exa</td>
   </tr>
   <tr>
-    <td>Tao and Kim \cite{taoEtAl2015}</td>
+    <td>Tao and Kim [9]</td>
     <td>MSR (C)</td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
@@ -249,7 +249,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Barnett and colleagues \cite{barnettEtAl2015}</td>
+    <td>Barnett and colleagues [10]</td>
     <td>ICSE (C)</td>
     <td>2015</td>
     <td>Decomposition of composite change</td>
@@ -258,7 +258,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Ge and colleagues \cite{geEtAl2017}</td>
+    <td>Ge and colleagues [11]</td>
     <td>VL/HCC (C)</td>
     <td>2017</td>
     <td>Refactoring-aware code review</td>
@@ -267,7 +267,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Guo and Song \cite{guoEtAl2017}</td>
+    <td>Guo and Song [12]</td>
     <td>COMPSAC (C)</td>
     <td>2017</td>
     <td>Decomposition of composite change</td>
@@ -276,7 +276,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Alves and colleagues \cite{alvesEtAl2018}</td>
+    <td>Alves and colleagues [13]</td>
     <td>IEEE TRANS SOFTW ENG (J)</td>
     <td>2018</td>
     <td>Refactoring-aware code review</td>
@@ -285,7 +285,7 @@ In the first phase, we were supported by Shaw's work [1], which specifies classi
     <td align="center" valign="center">Exp</td>
   </tr>
   <tr>
-    <td>Chen and colleagues \cite{chenEtAl2018}</td>
+    <td>Chen and colleagues [14]</td>
     <td>J SOFTW-EVOL PROC (J)</td>
     <td>2018</td>
     <td>Clone refactoring inspection</td>
@@ -305,3 +305,14 @@ Validation: An (Analysis), Ev (Evaluation), Exa (Example), Exp (Experience)</i>
 [1] M. Shaw, ''Writing good software engineering research papers: minitutorial,'' in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
 [2] R. Robbes and M. Lanza, ''Characterizing and Understanding Development Sessions,'' in 15th IEEE International Conference on Program Comprehension (ICPC'07), Canada, 2007, pp. 155–66.    
 [3] M. Kim and D. Notkin, ''Discovering and Representing Systematic Code Changes,'' in 31st International Conference on Software Engineering (ICSE'09), USA, 2009, pp. 309--19.
+[4] G. Bavota, B. De Carluccio, A. De Lucia, M. Di Penta, R. Oliveto and O. Strollo, ''When Does a Refactoring Induce Bugs? An Empirical Study,'' in IEEE 12th International Working Conference on Source Code Analysis and Manipulation (SCAM'12), Italy, 2012, pp. 104--13.
+[5] Y. Tao, Y. Dang, T. Xie, D. Zhang and S. Kim, ''How Do Software Engineers Understand Code Changes? An Exploratory Study in Industry,'' in ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering (FSE'12), USA, 2012, pp. 1--11.
+[6] M. Kim, T. Zimmermann and N. Nagappan, ''An Empirical Study of Refactoring Challenges and Benefits at Microsoft,'' IEEE Trans. Softw. Eng., vol. 40, issue 7, 2014, pp. 633--49.
+[7] T. Zhang, M. Song, J. Pinedo and M. Kim, ''Interactive Code Review for Systematic Changes,'' in 37th International Conference on Software Engineering - Volume 1 (ICSE'15), USA, 2015, pp. 111--22.
+[8] J. Matsuda, S. Hayashi and M. Saeki, ''Hierarchical Categorization of Edit Operations for Separately Committing Large Refactoring Results,'' in 14th International Workshop on Principles of Software Evolution (IWPSE'15), USA, 2015, pp. 19--27. 
+[9] Y. Tao and S. Kim, ''Partitioning Composite Code Changes to Facilitate Code Review,'' in 12th Working Conference on Mining Software Repositories (MSR'15), USA, 2015, pp. 180--90.
+[10] M. Barnett, C. Bird, J. Brunet and S. K. Lahiri, ''Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets, '' in 37th International Conference on Software Engineering (ICSE'15), USA, 2015, pp. 134--44.
+[11] X. Ge, S. Sarkar, J. Witschey and E. Murphy-Hill, ''Refactoring-aware code review,'' in IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC'17), USA, 2017, pp. 71--9. 
+[12] B. Guo and M. Song, ''Interactively Decomposing Composite Changes to Support Code Review and Regression Testing,'' in IEEE 41st Annual Computer Software and Applications Conference (COMPSAC'17), Italy, 2017, pp. 118--27.    
+[13] E. L. G. Alves, M. Song, T. Massoni, P.D.L. Machado, and M. Kim, ''Refactoring Inspection Support for Manual Refactoring Edits,'' IEEE Trans. Softw. Eng., vol. 44, issue 4, 2018, pp. 365--83.
+[14] Z. Chen, Y. Kwon and M. Song, ''Clone refactoring inspection by summarizing clone refactorings and detecting inconsistent changes during software evolution,'' J. Softw.-Evol. Proc., vol. 30, issue 10, 2018, pp.e1951--n/a.
