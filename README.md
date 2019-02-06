@@ -14,6 +14,9 @@
 
 
 <h3> Primary Studies </h3>
+
+# incluir a search string aqui
+
 <table>	    
   <tr>
     <th>Database</th>
@@ -44,6 +47,39 @@
 
 
 <h4> Inclusion and Exclusion Criteria </h4>
+<table>	    
+  <tr>
+    <th rowspan="4">Criteria</th>
+    <th rowspan="4">Description</th>    
+  </tr>
+  <tr>
+    <td align="center" valign="center">Inclusion</td>
+    <td align="left" valign="center">Peer-reviewed papers describing empirical works.</td>    
+  </tr>
+  <tr>
+    <td align="left" valign="center">Studies published in Journals or Conferences, Workshops</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">and Symposium proceedings.</td>
+  </tr>
+  <tr>
+    <td align="left" valign="center">Written in English.</td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">Exclusion</td>
+    <td align="left" valign="center">Lack of empirical results.</td>    
+  </tr>
+  <tr>
+    <td align="left" valign="center">Only available in the form of abstract or summary.</td>     
+  </tr>
+  <tr>
+    <td align="left" valign="center">Similarity to already selected research (the most recent</td>
+  </tr>
+  <tr>
+    <td align="left" valign="center">paper was considered).</td>
+  </tr>  
+	<caption><i>Inclusion and exclusion criteria</i></caption>  
+</table>
 
 
 <h4> Data Extraction </h4>
