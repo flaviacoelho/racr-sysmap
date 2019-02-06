@@ -1,12 +1,16 @@
 ## Refactoring-aware and code review: A systematic mapping study
 
-<h2> Research Questions </h2>
+Details on our <b>systematic literature mapping</b> study!
+
+<h4> Research Questions </h4>
 <p> This is a paragraph. </p>
 
-<h2> Inclusion and Exclusion Criteria </h2>
+<h4> Research Questions </h4>
 
-<h2> Data Extraction </h2>
+<h4> Inclusion and Exclusion Criteria </h4>
 
-<h2> Analysis and Classification </h2>
+<h4> Data Extraction </h4>
 
-<h2> Results </h2>
+<h4> Analysis and Classification </h4>
+
+<h4> Results </h4>
