@@ -26,20 +26,20 @@
     <td align="center" valign="center">248</td>    
   </tr>
   <tr>
-    <td>IEEEXplore Digital Library</td>
-    <td>214</td>    
+    <td align="center" valign="center">IEEEXplore Digital Library</td>
+    <td align="center" valign="center">214</td>    
   </tr>
   <tr>
-    <td>Inspec & Compendex Guide</td>
-    <td>578</td>
+    <td align="center" valign="center">Inspec & Compendex Guide</td>
+    <td align="center" valign="center">578</td>
   </tr>
   <tr>
-    <td>Science Direct</td>
-    <td>1597</td>
+    <td align="center" valign="center">Science Direct</td>
+    <td align="center" valign="center">1597</td>
   </tr>
   <tr>
-    <td>Springer Link</td>
-    <td>1090</td>
+    <td align="center" valign="center">Springer Link</td>
+    <td align="center" valign="center">1090</td>
   </tr>  
 </table>
 
