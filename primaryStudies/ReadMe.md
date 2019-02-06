@@ -5,7 +5,7 @@
 Search results available at <a href="ACMDigitalLibrary.csv">ACMDigitalLibrary.csv</a>
 
 ### IEEEXplore Digital Library
-Search results available at IEEEXploreDigitalLibrary.csv
+Search results available at <a href="IEEEXploreDigitalLibrary.csv">IEEEXploreDigitalLibrary.csv</a>
 
 ### Inspec & Compedex Guide
 In order to obtain a more precise set of search results, we applied the filters, as follows.
