@@ -53,32 +53,24 @@
     <th>Description</th>    
   </tr>
   <tr>
-    <td rowspan="4" align="center" valign="center">Inclusion</td>
+    <td rowspan="3" align="center" valign="center">Inclusion</td>
     <td align="left" valign="center">Peer-reviewed papers describing empirical works.</td>    
   </tr>
   <tr>
-    <td align="left" valign="center">Studies published in Journals or Conferences, Workshops</td>     
-  </tr>
-  <tr>
-    <td align="left" valign="center">and Symposium proceedings.</td>
-  </tr>
+    <td align="left" valign="center">Studies published in Journals or Conferences, Workshops and Symposium proceedings.</td>       </tr>
   <tr>
     <td align="left" valign="center">Written in English.</td>
   </tr>
   <tr>
-    <td rowspan="4" align="center" valign="center">Exclusion</td>
+    <td rowspan="3" align="center" valign="center">Exclusion</td>
     <td align="left" valign="center">Lack of empirical results.</td>    
   </tr>
   <tr>
     <td align="left" valign="center">Only available in the form of abstract or summary.</td>     
   </tr>
   <tr>
-    <td align="left" valign="center">Similarity to already selected research (the most recent</td>
-  </tr>
-  <tr>
-    <td align="left" valign="center">paper was considered).</td>
+    <td align="left" valign="center">Similarity to already selected research (the most recent paper was considered).</td>
   </tr>  
-	<caption><i>Inclusion and exclusion criteria</i></caption>  
 </table>
 
 
