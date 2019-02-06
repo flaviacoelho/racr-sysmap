@@ -14,25 +14,6 @@
 
 
 <h4> Primary Studies </h4>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 80%;
-}
-
-td, th {
-  border: 2px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-<body>
-
 <table>
 	<caption><b>Search results by database</b></caption>  
     
@@ -59,11 +40,8 @@ tr:nth-child(even) {
   <tr>
     <td>Springer Link</td>
     <td>1090</td>
-  </tr>
-  
+  </tr>  
 </table>
-
-</body>
 
 
 <h4> Inclusion and Exclusion Criteria </h4>
