@@ -16,7 +16,7 @@ Federal University of Campina Grande, Brazil</font><br>
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
 <br>
-	
+- - - -	
 
 <h3> Primary Studies </h3>
 <p>Details at <b>/primaryStudies</b>.</p>
