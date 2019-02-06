@@ -1,4 +1,4 @@
-<h2> <span style="color:red"> Refactoring-aware and code review: A systematic mapping study </span></h2>
+<h2> <span style="color:red"> Refactoring-Aware and Code Review: A Systematic Mapping Study </span></h2>
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 <img src="/images/splab.png" alt="SPLab Logo" width="100" height="100">
@@ -14,6 +14,8 @@
 
 
 <h3> Primary Studies </h3>
+<p>Details at <b>/primaryStudies</b>.</p>
+
 <table>	    
   <tr>
     <td align="center" valign="center">("code review" OR "code inspection") AND ("refactoring detection" OR "refactoring" OR "tool" OR "method" OR "process" OR "approach")
@@ -80,7 +82,7 @@
 
 
 <h4> Data Extraction </h4>
-
+We collected seven (7) conference proceedings papers and three (3) journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three (3) new conference papers. Details at <b>/dataExtraction</b>.
 
 <h4> Analysis and Classification </h4>
 
