@@ -9,9 +9,9 @@ Search results available at <a href="ACMDigitalLibrary.csv">ACMDigitalLibrary.cs
 Search results available at <a href="IEEEXploreDigitalLibrary.csv">IEEEXploreDigitalLibrary.csv</a>
 <br>
 
-### Inspec & Compedex Guide
-In order to obtain a more precise set of search results, we applied the filters, as follows.
+To the next databases, in order to obtain a more precise set of search results, we applied the filters, as follows.
 
+### Inspec & Compedex Guide
 <table style="width:100%">
   <tr>
     <th>Criteria</th>
@@ -39,8 +39,6 @@ In order to obtain a more precise set of search results, we applied the filters,
 </table>
 
 ### ScienceDirect
-In order to obtain a more precise set of search results, we applied the filters, as follows.
-
 <table style="width:100%">
   <tr>
     <th>Criteria</th>
@@ -55,8 +53,6 @@ In order to obtain a more precise set of search results, we applied the filters,
 </table>
 
 ### Springer Link
-In order to obtain a more precise set of search results, we applied the filters, as follows.
-
 <table style="width:100%">
   <tr>
     <th>Criteria</th>
