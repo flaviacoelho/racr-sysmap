@@ -22,8 +22,8 @@
     <th>Collected Studies</th>    
   </tr>
   <tr>
-    <td text-align: center; vertical-align: middle;>ACM Digital Library</td>
-    <td text-align: center; vertical-align: middle;>248</td>    
+    <td style='text-align:center;vertical-align:middle'>ACM Digital Library</td>
+    <td style='text-align:center;vertical-align:middle'>248</td>    
   </tr>
   <tr>
     <td>IEEEXplore Digital Library</td>
