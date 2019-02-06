@@ -4,7 +4,7 @@
 
 *This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
 *Federal University of Campina Grande, Brazil</font><br>*
-<img src="/images/splab.png" alt="SPLab Logo" width="15%" height="15%">
+<img src="/images/splab.png" alt="SPLab Logo" width="17%" height="17%">
 <hr>
 
 
