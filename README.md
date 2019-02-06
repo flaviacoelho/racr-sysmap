@@ -33,23 +33,23 @@
     <th>Collected Studies</th>    
   </tr>
   <tr>
-    <td align="center" valign="center">ACM Digital Library</td>
+    <td align="center" valign="center"><a href = "https://dl.acm.org/">ACM Digital Library</a></td>
     <td align="center" valign="center">248</td>    
   </tr>
   <tr>
-    <td align="center" valign="center">IEEEXplore Digital Library</td>
+    <td align="center" valign="center"><a href = "https://ieeexplore.ieee.org">IEEEXplore Digital Library</a></td>
     <td align="center" valign="center">214</td>    
   </tr>
   <tr>
-    <td align="center" valign="center">Inspec & Compendex Guide</td>
+    <td align="center" valign="center"><a href = "http://www.library.upenn.edu/">Inspec & Compendex Guide</a></td>
     <td align="center" valign="center">578</td>
   </tr>
   <tr>
-    <td align="center" valign="center">Science Direct</td>
+    <td align="center" valign="center"><a href = "https://www.sciencedirect.com/">Science Direct</a></td>
     <td align="center" valign="center">1597</td>
   </tr>
   <tr>
-    <td align="center" valign="center">Springer Link</td>
+    <td align="center" valign="center"><a href = "https://link.springer.com/">Springer Link</a></td>
     <td align="center" valign="center">1090</td>
   </tr>
 	<caption><i>Search results by database</i></caption>  
