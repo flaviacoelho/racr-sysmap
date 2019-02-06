@@ -90,7 +90,17 @@ We collected 7 conference proceedings papers and 3 journal articles. These eleve
 
 
 <h4> Analysis and Classification </h4>
+In order to categorize the 13 collected papers, we created the following two-phase classification scheme.
+<img src="/images/TwoPhaseClassificationScheme.png" alt="" width="128" height="128">
+In the first phase, we were supported by Shaw's work [1], which specifies classifications for research questions, results, and validation in Software Engineering, as follows. 
+
+tabela de classificação 
+
 <br>
 	
 
 <h4> Results </h4>
+<br>
+
+<h4> References </h4>
+[1] M. Shaw, "Writing good software engineering research papers: minitutorial," in 25th International Conference on Software Engineering (ICSE'03), USA, 2003, pp. 726-36. 
