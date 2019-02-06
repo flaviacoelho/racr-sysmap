@@ -7,7 +7,7 @@
 
 <h3> Research Questions </h3>
 <ul style="list-style-type:square;">
-	<li><b>RQ1</b>. What are the most common research topics in those papers?</li>
+    <li><b>RQ1</b>. What are the most common research topics in those papers?</li>
     <li><b>RQ2</b>. What are the methods/techniques/tools proposed in those papers?</li>
     <li><b>RQ3</b>. What are the validation methods applied in those papers?</li>
 </ul>
@@ -49,11 +49,11 @@
 <h4> Inclusion and Exclusion Criteria </h4>
 <table>	    
   <tr>
-    <th rowspan="4">Criteria</th>
-    <th rowspan="4">Description</th>    
+    <th>Criteria</th>
+    <th>Description</th>    
   </tr>
   <tr>
-    <td align="center" valign="center">Inclusion</td>
+    <td rowspan="4" align="center" valign="center">Inclusion</td>
     <td align="left" valign="center">Peer-reviewed papers describing empirical works.</td>    
   </tr>
   <tr>
@@ -66,7 +66,7 @@
     <td align="left" valign="center">Written in English.</td>
   </tr>
   <tr>
-    <td align="center" valign="center">Exclusion</td>
+    <td rowspan="4" align="center" valign="center">Exclusion</td>
     <td align="left" valign="center">Lack of empirical results.</td>    
   </tr>
   <tr>
