@@ -85,7 +85,7 @@
 <br>
 
 <h3> Data Extraction </h3>
-We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers. Details at <b>/dataExtraction</b>.
+We collected 7 conference proceedings papers and 3 journal articles. These eleven manuscripts were used as a starting set for a backward snowballing procedure, that led to three 3 new conference papers [2,3,9]. 
 <br>
 <br>
 
@@ -172,7 +172,7 @@ In the first phase, we were supported by Shaw's work, which specifies classifica
    	<th colspan="3" align="center" valign="center">Type of Research</th>
   </tr>
   <tr>    
-  	<td>Question</td>
+    <td>Question</td>
     <td>Result</td>
     <td>Validation</td>
   </tr>
