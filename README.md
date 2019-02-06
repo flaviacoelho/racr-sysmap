@@ -2,7 +2,7 @@
 
 <p>Details on our <b>systematic literature mapping</b> study!</p>
 
-*This work has been supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
+*This work was supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
 *Federal University of Campina Grande, Brazil</font><br>*
 <img src="/images/splab.png" alt="SPLab Logo" width="17%" height="17%">
 <hr>
