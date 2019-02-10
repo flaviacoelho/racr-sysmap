@@ -1,6 +1,6 @@
 <h2> <span style="color:red"> Refactoring-Aware and Code Review: A Systematic Mapping Study </span></h2>
 
-<p>Details on our <b>systematic literature mapping</b> study!</p>
+<p>Details on our <b>systematic literature mapping</b> study, conducted from September 2018 to January 2019!</p>
 
 *This work was supervisioned by Prof. Tiago Massoni and Prof. Everton Alves<br>*
 *Federal University of Campina Grande, Brazil</font><br>*
